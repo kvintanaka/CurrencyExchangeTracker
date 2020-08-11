@@ -10,7 +10,7 @@ exchangeratesapi.io (REST API for The European Central Bank (ECB): https://www.e
 
 # Instruction
 For quick Python installation, you can go to:
-https://kvintanaka.com/article/quick-python-installation
+https://kvintanaka.com/#/article/quick-python-installation
 
 Run the python script
 > python currency_exchange_tracker.py [currency_from] [currency_to]
